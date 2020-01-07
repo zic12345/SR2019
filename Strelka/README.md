@@ -1,0 +1,1 @@
+As is recomended, Manta was run first and its result were used as input of Strelka2.
